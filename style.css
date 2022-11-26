@@ -1,0 +1,75 @@
+
+*{
+    font-family: 'Basic';
+    font-style: normal;
+    margin: 0;
+    border: 0;
+}
+
+#paraf{
+    margin-top: 50px;
+}
+
+.paraf1{
+    width: 584px;
+    left: 135px;
+    top: 3941px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 38px;
+    color: #020E35;
+}
+
+.paraf2 {
+    width: 584px;
+    left: 135px;
+    top: 3971px;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 110px;
+    color: #020E35;
+}
+
+.paraf2-row {
+    display: flex;
+    width: 584px;
+    height: 220px;
+    gap: 15px;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 110px;
+    color: #020E35;
+}
+
+#paraf2-pink{
+    color: #E73587;
+
+}
+
+#paraf2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn{
+    height: 48px;
+    width: 554px;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);;
+
+}
+
+#exampleFormControlTextarea1{
+    height: 168px;
+
+}
+footer{
+    height: 25px;
+    margin-top: 70px;
+    padding-left: 50px;
+    background-color:#020E35;
+}
